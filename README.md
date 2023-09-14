@@ -1,0 +1,1 @@
+Two minimal scripts to monitor your Radix Olympia node via the metrics endpoint and public network gateways. `validator_node_metrics.py` can be scraped by Prometheus to be included in your Grafana dashboard.
